@@ -1,0 +1,15 @@
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/bin/Debug/net8.0/lab-3-to-do-list-RylanStevens
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/bin/Debug/net8.0/lab-3-to-do-list-RylanStevens.deps.json
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/bin/Debug/net8.0/lab-3-to-do-list-RylanStevens.runtimeconfig.json
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/bin/Debug/net8.0/lab-3-to-do-list-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/bin/Debug/net8.0/lab-3-to-do-list-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.sourcelink.json
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/refint/lab-3-to-do-list-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/lab-3-to-do-list-RylanStevens.genruntimeconfig.cache
+/Users/rylanstevens/programming 2024/lab-3-to-do-list-RylanStevens/obj/Debug/net8.0/ref/lab-3-to-do-list-RylanStevens.dll
